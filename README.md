@@ -4,7 +4,7 @@
 
 ## Author  
   
-[Jacqueline Ngabo](https://github.com/jay-ng)  
+[Jacqueline Ngabo](https://github.com/jay-nga)  
   
 # Description  
 

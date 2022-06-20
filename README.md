@@ -31,33 +31,6 @@ This is a Web Application that allows users, after signining in, join a neighbor
 <img src="static/images/login.png">
 
 
-### Navbar Page
-
-<img src="static/images/navbar.png">
-
-### All Businesses Page
-
-<img src="static/images/bizes.png">
-
-### All Posts Page
-
-<img src="static/images/posts.png">
-
-### All Profiles Page
-
-<img src="static/images/profile.png">
-
-### Search Business Page
-
-<img src="static/images/search.png">
-
-### User Profile Page
-
-<img src="static/images/prof.png">
-
-### Update Post Form
-
-<img src="static/images/post_form.png">
 
 ## Setup and Installation  
   

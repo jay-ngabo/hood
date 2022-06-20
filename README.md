@@ -12,7 +12,7 @@ This is a Web Application that allows users, after signining in, join a neighbor
 
 ##  Live Link  
  
-https://theneighborhoods.herokuapp.com/  
+  
 ## Screenshots 
 
 ### Landing Page

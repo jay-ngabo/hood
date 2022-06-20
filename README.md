@@ -87,7 +87,7 @@ Open the application on your browser `127.0.0.1:8000`.
   
 ## Support and Contact Information 
 
-To make a contribution to the code used or for any queries feel free to contact me via my email address kibiezekiel@gmail.com
+To make a contribution to the code used or for any queries feel free to contact me via my email address ngabo.jay@gmail.com
 
 ## License
 

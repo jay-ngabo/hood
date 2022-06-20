@@ -4,7 +4,7 @@
 
 ## Author  
   
-[Ezekiel Kibiego](https://github.com/ezekielkibiego)  
+[Ezekiel Ngabo](https://github.com/ezekielkibiego)  
   
 # Description  
 

@@ -16,7 +16,8 @@ This is a Web Application that allows users, after signining in, join a neighbor
 ## Screenshots 
 
 ### Landing Page
-<img src="static/images/home.png">
+
+
 
 ### Hoods Page
 

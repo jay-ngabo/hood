@@ -30,11 +30,6 @@ This is a Web Application that allows users, after signining in, join a neighbor
 
 <img src="static/images/login.png">
 
-### Single Hood Page
-
-<img src="static/images/single_hood1.png">
-<img src="static/images/single_hood2.png">
-<img src="static/images/single_hood3.png">
 
 ### Navbar Page
 

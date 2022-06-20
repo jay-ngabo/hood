@@ -12,24 +12,7 @@ This is a Web Application that allows users, after signining in, join a neighbor
 
 ##  Live Link  
  
-  
-## Screenshots 
 
-### Landing Page
-
-
-
-### Hoods Page
-
-<img src="static/images/hood.png">
-
-### Create Profile Form
-
-<img src="static/images/prof_form.png">
-
-### Login Form
-
-<img src="static/images/login.png">
 
 
 

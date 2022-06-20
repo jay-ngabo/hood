@@ -36,7 +36,7 @@ This is a Web Application that allows users, after signining in, join a neighbor
   
 ##### Clone the repository:  
  ```bash 
- git@github.com:ezek/The_Neighborhood.git
+ git@github.com:/The_Neighborhood.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
